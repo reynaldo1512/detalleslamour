@@ -1,0 +1,26 @@
+.carousel-item{
+    height: 100vh;
+    min-height: 200px;
+    background: no-repeat scroll center scroll;
+    -webkit-background-size:cover;
+    background-size:cover;
+}
+.carousel-caption{
+    bottom: 100px;
+    padding-left: 20px;
+    padding-right: 100px;
+    
+}
+
+.team{
+    margin: 50px 50px 50px 50px;
+    padding-left: 100px;
+    
+    
+}
+.social{
+       
+    flex: 1 1 auto;
+    display: flex;
+    
+        }
